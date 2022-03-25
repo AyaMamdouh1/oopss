@@ -1,0 +1,436 @@
+nav,.navbar
+{
+    height: 200px;
+    background-image: url("../imgs/bg@2x.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+nav a,.navbar p
+{
+    padding: 1px 40px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+nav .row2 ,.navbar .row2
+{
+background-image: url("../imgs/shopping-bag@2x.png");
+background-repeat: no-repeat;
+background-position: center bottom;
+background-size: contain;
+}
+.details
+{
+    background-color: #ffffff;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    width: 75% !important;
+    margin: auto;
+}
+textarea
+{
+    border-radius: 10px;
+
+}
+.e3lan
+{
+    background-color: #f1f1f1;
+}
+.e3lan i
+{
+    position: relative;
+    top: -30px;
+    left: -270px;
+}
+.orange
+{
+    color:#fb9e79;
+}
+.red
+{color: #d04d63;}
+.e3lan .r2
+{
+    background-color: #ececec;
+}
+.share
+{
+    background-color: #f1775c;
+}
+.e3lan button
+{
+    background-image: url("../imgs/Rectangle\ 51.png");
+    border-radius: 30px;
+    background-size: contain;
+    border: 1px solid transparent;
+}
+.e3lan .col-5
+{
+    background-image: url("../imgs/Group\ 33.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.e3lan .img
+{
+    background-image: url("../imgs/Group\ 33.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* width: 90%; */
+    /* margin: auto; */
+}
+.e3lan input 
+{
+    background-color:#ffffff;
+    height: 40px;
+    border-radius: 100px;
+width: 100%;
+border: 1px solid transparent;
+}
+.details
+{
+    background-color:#ffffff;
+    height: 40px;
+    border-radius: 100px;
+width: 100%;
+border: 1px solid #FFFff5;
+}
+.cf455c
+{
+    background-color: #cf455c;
+    border-radius: 100px;
+
+}
+
+textarea
+{
+    background-color: #ffff;
+    width: 100%;
+    border-radius: 30px;
+    border: none;
+}
+
+#Hmemenu
+{
+    background-image: url("../imgs/Rectangle\ 51.png");
+    background-size: contain;
+    position: relative;
+    top: -50px;
+}
+#Hmemenu input
+{
+    border-radius: 30px;
+     height: 50px;
+    border: 1px solid transparent;
+
+}
+#Hmemenu  i
+{
+    position: relative;
+    right: 320px;
+    top: -35px;
+}
+#Addedads 
+{
+    background-color: #ffffff;
+}
+
+#Addedads .layerr
+{
+    background-color: #cecece !important;
+    border-radius: 5px;
+}
+#Addedads button
+{
+    background-image: url("../imgs/Rectangle\ 51.png");
+    border-radius: 30px;
+    height: 50px;
+    background-size: contain;
+    border: 1px solid transparent;
+}
+#login .bg
+{
+    background-image: url("../imgs/Rectangle\ 51.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#password .bg
+{
+background-image: url("../imgs/Rectangle\ 51.png");
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+#login
+{
+    background-color: #f1f1f1;
+    
+}
+#login .r
+{
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+#password
+{
+    background-color: #f1f1f1;
+
+}
+#password .input
+{
+    position: relative;
+    height: 50px;
+}
+#password .input i
+{
+    position: absolute;
+    top:20px;
+    right: 20px;
+
+}
+#password input
+{
+    border: 1px solid transparent;
+    border-radius: 30px;
+    color: white;
+}
+#password button
+{
+    /* margin-right: 50px; */
+    color: white;
+    border: 1px solid transparent;
+    height: 50px;
+
+}
+#carsmenu 
+{
+    position: relative;
+    top:-30px;
+    width: 70%;
+    height: 250px;
+    background-image: url("../imgs/Rectangle\ 51.png");
+    background-position: center center;
+    background-size: contain;
+}
+.vl
+{
+    height: 50px;
+    width: 6px;
+    background-color: #faaf92;
+    margin-left: 10px;
+}
+#carsmenu input
+{
+    width: 100% !important;
+    border-radius: 30px;
+
+    border: 1px solid #ffffff;
+
+}
+#carsmenu .input i
+{
+    position: relative;
+    top: -40px;
+    left: -180px;
+}
+#carsmenu .input
+{
+    height: 60px;
+    border-radius: 30px;
+}
+#carsmenu .input2 i
+{
+    position: relative;
+    top:-25px;
+    left: -180px;
+}
+
+#carsmenu .input2
+{
+    height: 30px;
+    border-radius: 30px;
+}
+#cartypes
+{
+    background-color: #f1f1f1;
+}
+
+#cartypes .Featuredads .light .layer
+{
+    background-color: #ffffff;
+    border: 1px solid #ececec;
+    border-radius: 15px;
+}
+#cardetails .imgcar 
+{
+background-image: url("../imgs/2.png");
+background-size: 100% 100%;
+background-position: center center;
+background-repeat: no-repeat;
+}
+#cardetails .imgcar .layer
+{
+    height: 500px;
+    background-color: rgba(0,0,0,0.5);
+    background-repeat: no-repeat;
+}
+.Featuredads .text-center
+{
+    font-weight: bolder;
+    font-size: 24px;
+}
+.red
+{
+    color: #e9ccd1;
+}
+#cardetails
+{
+    background-color: #f1f1f1;
+}
+ #cardetails .details
+{
+
+    height: 50px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    /* margin-bottom: 20px; */
+        display:flex;
+        align-items: center;
+
+}
+
+#cardetails .details p
+
+{
+
+    /* background-color: #cf455c; */
+}
+#cardetails .detailsrow
+{
+    height: 100px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    width: 90%;
+
+}
+
+.bg
+{
+    background-image: url("../imgs/Rectangle\ 51.png");
+    background-size: contain;
+    border-radius: 30px;
+    border: 1px solid transparent;
+}
+.bg-red
+{
+    background-color: #cf455c !important;
+    width: 75%;
+    height: 50px;
+    margin: auto;
+    border-radius: 30px;
+    border: 1px solid transparent;
+}
+.bg-orange
+{
+    background-color: #ff8a5c;
+    width: 73%;
+    height: 50px;
+    margin: auto;
+    border-radius: 30px;
+    border: 1px solid transparent;
+}
+#cardetails .col-4 .row0
+{
+    background-color: #ffffff;
+    height: 150px;
+    border-radius: 10px;
+}
+#cardetails .col-4 .row2
+{
+    background-color: #646464;
+    border-radius: 15px;
+    
+}
+#cardetails .col-4 .circle2
+{
+    width: 15px;
+    height: 15px;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    background-color: #d8805e;
+}
+
+#cardetails label
+{
+
+}
+ #cardetails .detailsdouple
+ {    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+
+     height: 250px;
+     white-space: pre-wrap;
+     /* word-wrap: break-word; */
+     overflow-wrap:break-word
+    }
+.ads .text-center
+{
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+#passeord .r
+{
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+p
+{
+   word-break: break-word;
+}
+.circle
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #ff8a5c;
+
+}
+.t-cf455c
+{
+    color: #cf455c;
+}
+.specialtext
+{
+    font-size: 10px;
+    color: #eec1c8;
+    position: relative;
+    /* top:px; */
+    font-weight: bolder;
+}
+.bg-light
+{
+    background-color: #ffffff !important;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 2px solid #ffffff;
+
+}
+footer
+{
+    background-color: #cf455c;
+}
+footer i
+{
+    margin-left:20px ;
+    font-size: 35px;
+}
+footer .googleplay,footer .appstore
+{
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    height: 50px;
+    border-radius: 30px;
+
+}
